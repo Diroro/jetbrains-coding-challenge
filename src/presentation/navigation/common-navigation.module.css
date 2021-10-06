@@ -1,0 +1,21 @@
+.navigationItem {
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	padding: 0;
+}
+
+.navigationItemSelected {
+	background-color: rgba(0, 0, 0, 0.05);
+}
+
+.navigationLink {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	text-align: left;
+	width: 100%;
+}
+.navigationLinkSelected {
+	font-weight: bold;
+}

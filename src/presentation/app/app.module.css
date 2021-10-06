@@ -1,0 +1,9 @@
+.main {
+	padding-top: 68px;
+	display: flex;
+	height: 100%;
+}
+
+.app {
+	height: 100%;
+}

@@ -1,0 +1,26 @@
+.navigationList {
+	width: 280px;
+	padding: 24px 32px 0;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.navigationItemWrapper {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.navigationItem {
+	background-color: rgba(0, 0, 0, 0.05);
+	width: 100%;
+	height: 20px;
+}
+
+.hasLeftPadding {
+	padding-left: 20px;
+}
+
+.hasRightPadding {
+	padding-right: 20px;
+}

@@ -1,0 +1,31 @@
+.navigationItemWrapper {
+	display: flex;
+	padding-right: 32px;
+}
+
+.navigationItemWrapper:hover {
+	background-color: rgba(0, 0, 0, 0.05);
+}
+
+.navigationButton {
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-start;
+	text-align: left;
+	position: relative;
+	width: 100%;
+}
+
+.navigationArrow {
+	flex: none;
+	transition: transform 0.1s ease-in;
+	width: 24px;
+	position: absolute;
+	left: -24px;
+	top: 8px;
+}
+
+.itemContent {
+	padding: 8px 0;
+	line-height: 24px;
+}

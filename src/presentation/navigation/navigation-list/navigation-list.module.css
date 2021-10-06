@@ -1,0 +1,9 @@
+.navigation {
+	width: 280px;
+	height: 100%;
+	flex: none;
+}
+
+.outerNavList {
+	padding-top: 16px;
+}
