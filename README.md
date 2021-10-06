@@ -2,13 +2,13 @@
 
 In this project you could see an example of a navigation tree component with some specific design. 
 
-Used libraries:
+## Used libraries:
  - react
  - react-dom
  - react-router-dom
  - react-scripts (as a part of Create React App)
 
- Dev libraries:
+ Development libraries:
  - typescript
  - eslint + different plugins
  - prettier + different plugins
