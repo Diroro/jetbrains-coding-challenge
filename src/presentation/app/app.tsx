@@ -21,5 +21,3 @@ export const App: FC<{}> = memo(() => {
         </div>
     );
 });
-
-export default App;
