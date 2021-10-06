@@ -1,6 +1,6 @@
 import {FC, memo} from 'react';
 import {Page} from '../../../models/page.model';
-import {AnchorList} from '../anchors-list/anchor-list.component';
+import {AnchorList} from './anchor-list.component';
 import {getLiItemClass, getPaddingFromLevel} from '../navigation.utils';
 import {InnerNavigationList} from './inner-navigation-list.component';
 import cn from './navigation-item.module.css';

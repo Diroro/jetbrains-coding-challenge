@@ -1,7 +1,7 @@
 import {FC, memo} from 'react';
 import {useNavigationData} from '../../../data/use-store/use-store';
 import {Page} from '../../../models/page.model';
-import {AnchorItem} from '../navigation-item/anchor-item.component';
+import {AnchorItem} from './anchor-item.component';
 
 interface AnchorListProps {
     page: Page;

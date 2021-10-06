@@ -3,6 +3,6 @@ import cn from './header.module.css';
 
 export const Header = () => (
     <header className={cn.header}>
-        <Link to={'/'}>Some header data</Link>
+        <Link to={'/'}>JetBrains Coding Challege</Link>
     </header>
 );
